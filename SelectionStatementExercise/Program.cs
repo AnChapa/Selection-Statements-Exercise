@@ -35,7 +35,7 @@
 
             //Exercise2
 
-            Console.WriteLine("What is your favorite school subject?");
+            Console.WriteLine("\nWhat is your favorite school subject?");
             string userClass = Console.ReadLine();
 
             switch(userClass.ToLower())
